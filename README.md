@@ -21,9 +21,10 @@
 </p>
 ## 📊 GitHub Stats
 
-p align="center">
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajey-2003&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajey-2003&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🚀 Projects
