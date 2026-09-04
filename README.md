@@ -29,7 +29,7 @@
 
 - 🚗 [Car Showcase Website](https://github.com/ajey-2003/bca-html-css-project) – Multi-page website built using HTML and CSS
 - 🛒 [Amazon Clone](https://github.com/ajey-2003/amazon-clone) – Responsive Amazon homepage clone built with HTML & CSS featuring modern UI layout and product sections.
-- [My Portfolio]("https://ajey-2003.github.io/ajay-kumar-portfolio") - Personal portfolio website showcasing my skills, projects, and journey.
+- [My Portfolio](https://ajey-2003.github.io/ajay-kumar-portfolio) - Personal portfolio website showcasing my skills, projects, and journey.
 - [AVICORE-X1](https://ajey-2003.github.io/AVICORE-X1) - Premium laptop landing page built with HTML, CSS, and JavaScript, featuring a modern responsive design.
 ## 🎯 Current Goals
 
