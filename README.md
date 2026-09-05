@@ -31,6 +31,7 @@
 - 🛒 [Amazon Clone](https://github.com/ajey-2003/amazon-clone) – Responsive Amazon homepage clone built with HTML & CSS featuring modern UI layout and product sections.
 - [My Portfolio](https://ajey-2003.github.io/ajay-kumar-portfolio) - Personal portfolio website showcasing my skills, projects, and journey.
 - [AVICORE-X1](https://ajey-2003.github.io/AVICORE-X1) - Premium laptop landing page built with HTML, CSS, and JavaScript, featuring a modern responsive design.
+- [calculator-app](https://ajey-2003.github.io/calculator-app) - A modern responsive calculator with scientific mode and calculation history.
 ## 🎯 Current Goals
 
 - 🌱 Learning Full Stack Web Development
