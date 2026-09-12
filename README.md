@@ -33,6 +33,7 @@
 - [AVICORE-X1](https://ajey-2003.github.io/AVICORE-X1) - Premium laptop landing page built with HTML, CSS, and JavaScript, featuring a modern responsive design.
 - [calculator-app](https://ajey-2003.github.io/calculator-app) - A modern responsive calculator with scientific mode and calculation history.
 - [To-Do List-App](https://ajey-2003.github.io/todo-list-app) - A modern and responsive Todo List web application built with HTML, CSS, and JavaScript.
+- [weather-app](https://ajey-2003.github.io/weather-app) - A responsive weather application built with HTML, CSS and JavaScript using the OpenWeather API.
 ## 🎯 Current Goals
 
 - 🌱 Learning Full Stack Web Development
